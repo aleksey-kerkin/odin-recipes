@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 30rem;
+  height: auto;
+}
+
+.position {
+  margin: 5rem 25rem;
+}
